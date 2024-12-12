@@ -10,7 +10,9 @@ using BookClub1._1.Models;
 
 namespace BookClub1._1.Controllers
 {
-    public class BookController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class BookController : ControllerBase
     {
         private readonly BookClubContext _context;
 
@@ -21,7 +23,16 @@ namespace BookClub1._1.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetBooks() => Ok(await _context.Books.ToListAsync());
+        public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
+        {
+            var books = await _context.Books.ToListAsync();
+            if (books == null || !books.Any())
+            {
+                return NotFound("Books not found");
+            }
+            return Ok(books);
+        }
+        //public async Task<IActionResult> GetBooks() => Ok(await _context.Books.ToListAsync());
 
         [HttpGet("user-books/{Id}")]
         public async Task<IActionResult> GetUserBooks(int id)
@@ -35,18 +46,17 @@ namespace BookClub1._1.Controllers
         }
 
         [HttpPost("add")]
-        public async Task<IActionResult> AddBookForUser(int userId, int bookId)
+        public async Task<IActionResult> AddBookForUser([FromBody] Book book)
         {
-            var user = await _context.Users.Include(u => u.ReadBooks).FirstOrDefaultAsync(u => userId == u.Id);
-            var book = await _context.Books.FindAsync(bookId);
-            if (user == null || book == null)
+            if (book == null)
             {
-                return NotFound();
+                return BadRequest("Book is null");
             }
 
-            user.ReadBooks.Add(book);
+            _context.Books.Add(book);
             await _context.SaveChangesAsync();
-            return Ok();
+
+            return Ok(book);
 
         }
 

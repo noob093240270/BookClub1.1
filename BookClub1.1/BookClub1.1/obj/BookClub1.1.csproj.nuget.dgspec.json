@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dd\\Documents\\GitHub\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj": {}
+    "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dd\\Documents\\GitHub\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj": {
+    "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dd\\Documents\\GitHub\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj",
+        "projectUniqueName": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj",
         "projectName": "BookClub1.1",
-        "projectPath": "C:\\Users\\dd\\Documents\\GitHub\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj",
-        "packagesPath": "C:\\Users\\dd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dd\\Documents\\GitHub\\BookClub1.1\\BookClub1.1\\BookClub1.1\\obj\\",
+        "projectPath": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\BookClub1.1.csproj",
+        "packagesPath": "C:\\Users\\WEB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WEB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,12 +38,26 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -58,6 +71,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -83,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
