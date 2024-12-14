@@ -28,14 +28,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "userId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "bookId",
-        "Type": "System.Int32",
-        "IsRequired": false
+        "Name": "book",
+        "Type": "BookClub1._1.Models.Book",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -79,6 +74,22 @@
   },
   {
     "ContainingType": "BookClub1._1.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "BookClub1._1.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookClub1._1.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "login",
     "HttpMethod": "POST",
@@ -86,9 +97,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "userlogin",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "name",
+        "Type": "BookClub1._1.Models.User",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

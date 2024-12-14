@@ -6,21 +6,10 @@ namespace BookClub1._1
 {
     public class Program
     {
+      
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            builder.Services.AddCors(options =>
-            {
-                options.AddPolicy("AllowAngularApp", policy =>
-                {
-                    policy.AllowAnyOrigin()  
-                          .AllowAnyMethod()  
-                          .AllowAnyHeader(); 
-                });
-            });
-
-            // Add services to the container.
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -28,8 +17,15 @@ namespace BookClub1._1
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
-            app.UseCors("AllowAngularApp");
-            app.UseStaticFiles();
+
+            context.UseSpaStaticFiles();
+            context.UseSpa(spa =>
+            {
+                if (env.IsDevelopment())
+                {
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
+                }
+            });
 
             app.UseRouting();
             app.MapControllers();

@@ -173,6 +173,14 @@ C:\Users\dd\Documents\GitHub\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.
 C:\Users\dd\Documents\GitHub\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\BookClub1.1.pdb
 C:\Users\dd\Documents\GitHub\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\BookClub1.1.genruntimeconfig.cache
 C:\Users\dd\Documents\GitHub\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\ref\BookClub1.1.dll
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\angular.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\dist\client-app\prerendered-routes.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\package-lock.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\package.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\proxy.conf.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.app.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.json
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.spec.json
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\appsettings.json
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\BookClub1.1.staticwebassets.endpoints.json
@@ -183,7 +191,9 @@ C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\BookCl
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\BookClub1.1.pdb
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -220,6 +230,8 @@ C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Micros
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -346,12 +358,3 @@ C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\refint
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\BookClub1.1.pdb
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\BookClub1.1.genruntimeconfig.cache
 C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\obj\Debug\net8.0\ref\BookClub1.1.dll
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\angular.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\dist\client-app\prerendered-routes.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\package-lock.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\package.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\proxy.conf.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.app.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\AppClient\client-app\tsconfig.spec.json
-C:\Users\WEB\Desktop\BookClub1.1\BookClub1.1\BookClub1.1\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll

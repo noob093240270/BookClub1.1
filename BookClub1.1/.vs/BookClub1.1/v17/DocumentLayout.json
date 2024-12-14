@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\controllers\\readbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\controllers\\readbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\data\\bookclubcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\data\\bookclubcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appclient\\client-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appclient\\client-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appclient\\client-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appclient\\client-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\data\\bookclubcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\data\\bookclubcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\controllers\\readbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\controllers\\readbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appclient\\client-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appclient\\client-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appclient\\client-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appclient\\client-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|c:\\users\\web\\desktop\\bookclub1.1\\bookclub1.1\\bookclub1.1\\appclient\\client-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB7C8DAD-9E43-4FCF-8E25-2D05EAB29821}|BookClub1.1\\BookClub1.1.csproj|solutionrelative:bookclub1.1\\appclient\\client-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,93 +51,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReadBookController.cs",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\ReadBookController.cs",
-              "RelativeDocumentMoniker": "BookClub1.1\\Controllers\\ReadBookController.cs",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\ReadBookController.cs",
-              "RelativeToolTip": "BookClub1.1\\Controllers\\ReadBookController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:25:35.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Program.cs",
-              "RelativeDocumentMoniker": "BookClub1.1\\Program.cs",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Program.cs",
-              "RelativeToolTip": "BookClub1.1\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:25:35.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BookClub1.1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BookClub1.1\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:25:35.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookClubContext .cs",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Data\\BookClubContext .cs",
-              "RelativeDocumentMoniker": "BookClub1.1\\Data\\BookClubContext .cs",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Data\\BookClubContext .cs",
-              "RelativeToolTip": "BookClub1.1\\Data\\BookClubContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:25:35.424Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\appsettings.json",
+              "RelativeDocumentMoniker": "BookClub1.1\\appsettings.json",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\appsettings.json",
+              "RelativeToolTip": "BookClub1.1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T11:13:52.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "book.service.ts",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\book.service.ts",
+              "RelativeDocumentMoniker": "BookClub1.1\\AppClient\\client-app\\src\\app\\book.service.ts",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\book.service.ts",
+              "RelativeToolTip": "BookClub1.1\\AppClient\\client-app\\src\\app\\book.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T10:50:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "BookClub1.1\\AppClient\\client-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "BookClub1.1\\AppClient\\client-app\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T10:48:09.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BookClub1.1\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\BookController.cs",
               "RelativeToolTip": "BookClub1.1\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:25:35.419Z",
+              "WhenOpened": "2024-12-13T10:45:32.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.config.ts",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\app.config.ts",
-              "RelativeDocumentMoniker": "BookClub1.1\\AppClient\\client-app\\src\\app\\app.config.ts",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\src\\app\\app.config.ts",
-              "RelativeToolTip": "BookClub1.1\\AppClient\\client-app\\src\\app\\app.config.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-12T09:12:47.683Z",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookClub1.1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Models\\Book.cs",
+              "RelativeToolTip": "BookClub1.1\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:26:00.704Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadBookController.cs",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\ReadBookController.cs",
+              "RelativeDocumentMoniker": "BookClub1.1\\Controllers\\ReadBookController.cs",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\ReadBookController.cs",
+              "RelativeToolTip": "BookClub1.1\\Controllers\\ReadBookController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:25:35.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\package.json",
-              "RelativeDocumentMoniker": "BookClub1.1\\AppClient\\client-app\\package.json",
-              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\package.json",
-              "RelativeToolTip": "BookClub1.1\\AppClient\\client-app\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookClub1.1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookClub1.1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:25:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookClubContext .cs",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Data\\BookClubContext .cs",
+              "RelativeDocumentMoniker": "BookClub1.1\\Data\\BookClubContext .cs",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\Data\\BookClubContext .cs",
+              "RelativeToolTip": "BookClub1.1\\Data\\BookClubContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:25:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\angular.json",
+              "RelativeDocumentMoniker": "BookClub1.1\\AppClient\\client-app\\angular.json",
+              "ToolTip": "C:\\Users\\WEB\\Desktop\\BookClub1.1\\BookClub1.1\\BookClub1.1\\AppClient\\client-app\\angular.json",
+              "RelativeToolTip": "BookClub1.1\\AppClient\\client-app\\angular.json",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T13:46:26.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T09:27:27.879Z"
             }
           ]
         }
